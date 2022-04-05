@@ -2,9 +2,9 @@ def setup_for_loggef():
 	#Installing packages
 	try:
 		import os,sys,time,random
-		from uuid import getnode
+		
 		import platform
-		import mysql.connector
+		
 		import requests
 		from termcolor import colored
 		from colorama import Fore,Back,Style
@@ -17,9 +17,9 @@ def setup_for_loggef():
 				print('\033[1;36;40mWait please, \033[1;31;40mInstalling resources...\033[1;0m')
 				pt=platform.uname()[0]
 				if pt.lower()=='windows':
-					os.system('pip install colorama termcolor requests bs4 mysql mysql-connector')
+					os.system('pip install colorama termcolor requests bs4 ')
 				elif pt.lower()=='linux':
-					os.system('pkg install mariadb && apt install mariadb && apt install python && apt install git && pip install colorama termcolor requests bs4 mysql mysql-connector')
+					os.system('pkg install mariadb && apt install mariadb && apt install python && apt install git && pip install colorama termcolor requests bs4 ')
 				else:
 					print('\033[1;31;40mUnsuported operating system detected, please make sure you are using linux or windows platform..\033[1;0m')
 					sys.exit()
