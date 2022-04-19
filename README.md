@@ -1,4 +1,14 @@
+<h2 align="center"> MAO_PRE </h2>
 
+<div align="center">
+<b> GET US IN CLICK </b><br><br>
+<a href="https://github.com/mao2116">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/git.png">
+</a>
+<a href="https://www.facebook.com/mao2116/">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png"><!I JUST USE A PIC FROM FH-RABBI >
+</a>
+</div>  
 
 <a href="https://github.com/mao2116/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/mao2116?label=Followers&color=blue&style=flat-square"></a>
@@ -52,6 +62,8 @@ python mao.py
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/mao2116) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/mao2116) <br>
+
+<b>Copyright (c) 2022 MAO-COMMUNITY Under <a href="https://raw.githubusercontent.com/mao2116/mao_pre/main/LICENSE">MIT LICENSE</a></b>
 
 
 
